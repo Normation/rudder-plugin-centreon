@@ -1,2 +1,4 @@
 # rudder-plugin-centreon
-This plugin allows to synchronize data between Rudder and Centreon
+
+This plugin was migrated into 
+https://github.com/Normation/rudder-plugins/tree/master/centreon
